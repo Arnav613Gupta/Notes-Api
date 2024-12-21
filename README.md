@@ -1,1 +1,1 @@
-# Notes-Api : This is a basic notes api that use sqlite data base 
+# Notes-Api : This is a django based api and a part of full stack notes-app
